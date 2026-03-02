@@ -45,5 +45,5 @@ A system for managing hostel records, room allocation, and student data.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: yourprofessionalemail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammadmusawer
+- Email: musaweryash1@gmail.com
