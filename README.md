@@ -1,16 +1,49 @@
-## Hi there 👋
+# Muhammad Musawer
 
-<!--
-**musawerbaig/musawerbaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at COMSATS University  
+💻 Aspiring Software Engineer  
+📍 Islamabad, Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a passionate Computer Science student focused on learning Data Structures, Algorithms, and Web Development.  
+I enjoy building real-world projects and continuously improving my problem-solving skills.
+
+---
+
+## 🛠️ Skills
+
+- C++
+- Java
+- Python
+- HTML
+- CSS
+- TypeScript
+- Data Structures & Algorithms
+
+---
+
+## 📌 Projects
+
+### 1️⃣ CV Website
+Personal portfolio website built using HTML & CSS.
+
+### 2️⃣ Hostel Management System
+A system for managing hostel records, room allocation, and student data.
+
+---
+
+## 📚 Currently Learning
+
+- Backend Development
+- Database Systems
+- Advanced Data Structures
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- Email: yourprofessionalemail@gmail.com
